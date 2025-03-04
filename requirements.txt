@@ -9,4 +9,5 @@ langchain_community
 langchain-google-genai
 langchain_experimental
 langchain-huggingface
+gunicorn
 - e .
